@@ -5,3 +5,8 @@ design a lex code to count the number of lines ,spaces ,tap and rest of characat
 
 program 2
  design a lex code to identify and print valid identifier of c and c++
+ 
+ 
+ 
+ ////
+ design a lex code for tokening (identify and print )operators,seprators,keywords,identifier 
