@@ -1,0 +1,7 @@
+lab 2;
+program2
+design a lex code to count the number of lines ,spaces ,tap and rest of characater in a given input pattern 
+
+
+program 2
+ design a lex code to identify and print valid identifier of c and c++
