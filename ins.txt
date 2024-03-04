@@ -10,3 +10,6 @@ program 2
  
  ////
  design a lex code for tokening (identify and print )operators,seprators,keywords,identifier 
+////
+Design a lex code to replace white spaces of input.txt by single black char into output.txt file
+Design a lex code to remove the comment from any  c progtram given at run time and store into out.c file
